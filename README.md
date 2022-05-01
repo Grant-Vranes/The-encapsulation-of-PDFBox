@@ -92,6 +92,7 @@
 > | imageToBase64(String path)                | 将图片文件转化为字节数组字符串，并对其进行Base64编码处理 |
 
 <hr>
+
 #### model包
 
 > **RectPos**核心实体模型
@@ -114,6 +115,7 @@
 
 
 <hr>
+
 #### pdfBoxCtl包
 
 > **BaseMethod**基本方法
