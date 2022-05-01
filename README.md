@@ -2,9 +2,11 @@
 
 > Author1: Akio
 >
-> Author2: xu,ziyun
+> Author2: Bzovo
 
-
+## other
+gitee https://gitee.com/Grantr/the-encapsulation-of-pdfbox
+github https://github.com/Grant-Vranes/The-encapsulation-of-PDFBox
 
 ## 介绍
 封装一些PDFBox组件的常用方法,
