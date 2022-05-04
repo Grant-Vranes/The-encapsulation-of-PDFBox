@@ -10,7 +10,7 @@ gitee https://gitee.com/Grantr/the-encapsulation-of-pdfbox
 github https://github.com/Grant-Vranes/The-encapsulation-of-PDFBox
 
 ## 介绍
-封装一些PDFBox组件的常用方法,
+这个项目使用SpringBoot，纯纯的一个工具类，主要操作方法再pdfBoxCtl包下。结合这些方法可以做到“根据关键字限定范围(页数)或确定矩形、扩展矩形，提取其中文本或者截图”<br>
 使用PDFBox文件相关坐标如下
 ```xml
 <dependency>
